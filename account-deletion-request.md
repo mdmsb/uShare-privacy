@@ -22,4 +22,4 @@ By sending an account deletion request, you acknowledge and accept the potential
 Thank you for using uShare, and we appreciate your understanding of the account deletion process.
 
 Sincerely,
-[Your App's Support Team]
+uShare
