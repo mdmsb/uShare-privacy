@@ -13,9 +13,9 @@ If you still wish to proceed with account deletion, please contact our support t
 
 ### Account Deletion Request:
 
-Subject: Account Deletion Request
-Email: [Your registered email address]
-Reason for Deletion: [Provide a brief reason for your request, if desired]
+Subject: Account Deletion Request;
+Email: [Your registered email address];
+Reason for Deletion: [Provide a brief reason for your request, if desired];
 
 By sending an account deletion request, you acknowledge and accept the potential consequences of disrupting shared calculations within your groups.
 
