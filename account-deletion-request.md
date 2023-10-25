@@ -1,4 +1,5 @@
 Request Account Deletion
+----------------
 
 We understand that there may be situations where you wish to delete your account and associated data from our platform. Please note that account deletion may affect the accuracy of shared calculations in group transactions.
 
@@ -10,7 +11,7 @@ Data Removal: Account deletion will result in the permanent removal of your user
 
 If you still wish to proceed with account deletion, please contact our support team at support@uShareApp.com with the subject "Account Deletion Request." We will review your request and guide you through the process.
 
-Account Deletion Request:
+### Account Deletion Request:
 
 Subject: Account Deletion Request
 Email: [Your registered email address]
